@@ -24,7 +24,7 @@
   "dependencies": {
     "ammobin-classifier": "0.1.1",
     "apollo-server": "^2.9.14",
-    "apollo-server-cache-redis": "^1.1.4",
+    "apollo-server-cache-redis": "^1.1.5",
     "apollo-server-hapi": "^2.9.14",
     "apollo-server-lambda": "^2.9.14",
     "apollo-server-plugin-response-cache": "^0.3.9",
